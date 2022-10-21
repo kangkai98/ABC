@@ -20,6 +20,8 @@ import torch.nn.functional as F
 from utils import Bar, Logger, AverageMeter, accuracy, mkdir_p, savefig
 from scipy import optimize
 
+#sdsd
+
 parser = argparse.ArgumentParser(description='PyTorch fixMatch Training')
 # Optimization options
 parser.add_argument('--epochs', default=500, type=int, metavar='N',
